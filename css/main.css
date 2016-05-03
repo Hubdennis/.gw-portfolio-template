@@ -1,0 +1,223 @@
+/*Portfolio Template Styles*/
+/*Blobal Styles*/
+body, html{
+  margin: 10;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+}
+a{
+  color:inherit;
+  text-decoration: none;
+}
+
+
+h1,h2,h3{
+  margin: 0;
+}
+
+/*Header Styles*/
+header{
+  height: 100px;
+  width:100%;
+  background-color: #ba33ff;
+}
+.logo{
+  width:400px;
+  height:400%;
+  float: left;
+}
+.logo h1{
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.menu{
+height: 100%auto;
+width: 400px;
+float: right;
+
+}
+
+.menu ul {
+position: relative;
+top: 35px;
+  }
+.menu li{
+display: inline-block;
+  padding: 0px 10px ;
+}
+
+/*Banner Styles*/
+#banner{
+  height: 300px;
+  width: 100%;
+  background:url("../img/above-aerial.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+#banner h1{
+  text-align: center;
+  padding-top: 90px;
+  font-size: 3em;
+}
+
+/*Skills Styling*/
+#skills{
+  height: 500px;
+  width: 95%;
+  background-color: rgb (234, 654, 765)
+  padding-top: 45px;
+}
+
+.skills-container{
+  height: 50%;
+  width: 85%;
+  margin: 0 auto;
+}
+
+
+#skills article{
+  width: 25%;
+  height: 100%;
+  background-color: yellow;
+  float:left;
+  margin: 0 22px;
+  padding: 15px 15px;
+  border-radius: 5px;
+  text-align: justify;
+}
+#skills article h1{
+  text-align: center;
+}
+
+/*About Slyes*/
+#about{
+width: 100%;
+padding: 50px 0;
+background-color: green;
+display: inline-block;
+
+}
+.img-box{
+  height: 100%;
+  width: 25%;
+  float: left;
+  background-color:#22dd4a;
+
+}
+
+.img-container{
+height: 200px;
+width: 205px;
+background-color: #adf124;
+margin-left: 25px;
+margin-top: 50px;
+
+}
+
+#about img{
+  height: 100%;
+  border-radius: 100%;
+}
+
+
+
+  }.about-info{
+  height:100%;
+  width: 75%;
+  float: left;
+  background-color: #ac3498;
+}
+
+.about-content{
+  height: 300px;
+  width: 800px;
+  border: 2px dashed #333;
+  margin-top: 25px;
+  border-radius: 5px;
+}
+
+#about h1{
+  text-align: center;
+  padding-top: 20px;
+
+}
+
+#contact{
+  width: 100%;
+  padding: 25px 0;
+  display:inline-block;
+  background: url;
+  background-size: fsd;
+  background-position: fsda;
+  background-attachment:
+
+}
+
+#contact h1{
+  text-aligh: center;
+  font-size: 3em;
+}
+
+.form-box{
+  height: 300px;
+  width:500px;
+  margin:0 auto;
+  background-color: rgba(0, 0, 0, 0.5)
+  padding: 30px;
+}
+
+#contact textarea{
+ height: 125px;
+ width: 100%;
+ margin: 10px 0;
+
+}
+
+#contact button{
+  height: 40px;
+  width:125px;
+  background-color: lightblue;
+  border: 2px solid #333;
+  color:
+}
+ #contact button{ hover
+
+/*footer styles*/
+.footer{
+  Height:
+  width:
+  background-color: #333;
+  clear:both;
+  margin:0;
+
+.copyright{
+  color:white;
+  padding: 30px:inherit;
+  text-align: center;
+
+}
+.sm-icons{
+  width: 300px;
+  height:50px;
+  color: #ccc;
+  margin:0 auto;
+}
+
+.icon{
+  heigh: 50px;
+  width: 50px;
+  background-color: #fff;
+  float: left;
+}
+
+.icon i{
+  font-size: 2em;
+  color:#333;
+  padding: 10px;
+}
